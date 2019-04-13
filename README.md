@@ -1,5 +1,5 @@
 # Foxit Reader quick scroll
-Use the side mouse buttons (6+ button mouse) as page up and down when opening Foxit Reader
+Use the side mouse buttons (6+ button mouse) as page up and down when opening Foxit Reader.
 _____________
 
 Not anything fancy. Pretty much anyone could do this. Just figured it might be of use to some people.
@@ -10,6 +10,8 @@ I prefer to use the side buttons of my mouse as PageUp/PageDown to faster scroll
 1. Runs automatically when you open a PDF file.
 2. The original button functions are restored if Foxit Reader is not on top (e.g. in Explorer the side buttons still function as Back/Forward).
 3. The script closes automatically when you close Foxit Reader.
+
+So far, this seems to be compatible with FoxitReader 9.0.x up to 9.5.0.x (latest as of now).
 
 To use this, you need to install AutoHotkey first. https://www.autohotkey.com/
 Note that the .ahk format must be registered as an executable format in Windows shell. This is done automatically if you use the AutoHotkey installer (as opposed to a 'portable' format or something)
