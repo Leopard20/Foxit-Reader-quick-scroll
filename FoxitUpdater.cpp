@@ -4,4 +4,5 @@
 int main() {
     FreeConsole();
     ShellExecute(NULL, "open", "C:\\PDF.ahk", NULL, NULL, 0);
+	return 0;
 }
