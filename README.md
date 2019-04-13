@@ -4,7 +4,7 @@ _____________
 
 Not anything fancy. Pretty much anyone could do this. Just figured it might be of use to some people.
 
-I prefer to use the side buttons of my mouse as PageUp/PageDown to faster scroll through a PDF file. I didn't want to modify the original exe file. So instead I replaced the program FoxitUpdate.exe (because it runs on every launch, and I don't use auto updaters anyway) with this one. 
+I prefer to use the side buttons of my mouse as PageUp/PageDown to faster scroll through a PDF file. But I didn't want to modify the file FoxitReader.exe to acheive this. So instead I replaced the program FoxitUpdate.exe (because it runs on every launch, and I don't use auto updaters anyway) with this one. 
 
 # **Features:**
 1. Runs automatically when you open a PDF file.
