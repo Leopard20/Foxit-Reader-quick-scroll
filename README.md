@@ -12,7 +12,7 @@ I prefer to use the side buttons of my mouse as PageUp/PageDown to faster scroll
 3. The script closes automatically when you close Foxit Reader.
 
 To use this, you need to install AutoHotkey first. https://www.autohotkey.com/
-Note that the .ahk format must be registered as an executable format in Windows shell.
+Note that the .ahk format must be registered as an executable format in Windows shell. This is done automatically if you use the AutoHotkey installer (as opposed to a 'portable' format or something)
 
 # **How to install:**
 1. Download the file PDF.ahk (autohotkey script) and place it in the root of your C drive. Alternatively, you can modify the CPP file and change the path to the autohotkey script.
