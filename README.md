@@ -1,5 +1,5 @@
 # Foxit Reader quick scroll
-Use the side mouse buttons (6+ button mouse) as page up and down when opening Foxit Reader.
+Use the side mouse buttons (6+ button mouse) as page up and down when using Foxit Reader.
 _____________
 
 Not anything fancy. Pretty much anyone could do this. Just figured it might be of use to some people.
