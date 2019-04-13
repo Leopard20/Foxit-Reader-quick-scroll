@@ -2,8 +2,9 @@
 Use the side mouse buttons (6+ button mouse) as page up and down when using Foxit Reader.
 _____________
 
-Not anything fancy. Pretty much anyone could do this. Just figured it might be of use to some people.
+Not anything fancy. Pretty much anyone could do this. I've been using this for quite some time now but recently a friend of mine asked me for something similar. So I figured it might be of use to other people as well.
 
+# Description:
 I prefer to use the side buttons of my mouse as PageUp/PageDown to faster scroll through a PDF file. But I didn't want to modify the file FoxitReader.exe to acheive this. So instead I replaced the program FoxitUpdate.exe (because it runs on every launch, and I don't use auto updaters anyway) with this one. 
 
 # **Features:**
